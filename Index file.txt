@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Oloo M.A & Associates - Certified Public Accountants</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 0; padding: 0; background-color: #f4f4f9; }
+        header { background-color: #003366; color: white; padding: 20px; text-align: center; }
+        nav { background-color: #002244; padding: 10px; text-align: center; }
+        nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+        section { padding: 20px; }
+        footer { background-color: #003366; color: white; text-align: center; padding: 10px 0; }
+        .container { max-width: 1200px; margin: auto; padding: 20px; }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Oloo M.A & Associates</h1>
+    <p>Certified Public Accountants</p>
+</header>
+
+<nav>
+    <a href="#about">About Us</a>
+    <a href="#services">Services</a>
+    <a href="#clients">Clients</a>
+    <a href="#case-study">Case Study</a>
+    <a href="#blog">Blog</a>
+    <a href="#contact">Contact Us</a>
+</nav>
+
+<section id="about" class="container">
+    <h2>About Us</h2>
+    <p>Oloo M.A & Associates (O.M.A) is a leading audit and accounting firm offering high-quality financial services including audit, accounting, tax, consulting, and business advisory. Registered with ICPAK, we pride ourselves on timely, cost-effective service delivery by our talented team of professionals.</p>
+    <p><strong>Vision:</strong> To be the leading audit, training, and consultancy service provider in Africa.</p>
+    <p><strong>Core Values:</strong> Teamwork, Professionalism, Integrity, Excellence.</p>
+</section>
+
+<section id="services" class="container">
+    <h2>Our Services</h2>
+    <ul>
+        <li>Audit and Assurance Services</li>
+        <li>Accounting Services</li>
+        <li>Tax Advisory and Compliance</li>
+        <li>Consulting and Business Advisory</li>
+        <li>Training on Auditing and Accounting Standards</li>
+    </ul>
+</section>
+
+<section id="clients" class="container">
+    <h2>Our Clients</h2>
+    <p>We serve a diverse range of clients including:</p>
+    <ul>
+        <li>Cooperative Saccos and Agricultural Organizations</li>
+        <li>Private Sector Enterprises</li>
+        <li>Non-Governmental Organizations (NGOs)</li>
+        <li>Government Bodies and Parastatals</li>
+    </ul>
+</section>
+
+<section id="case-study" class="container">
+    <h2>Case Study</h2>
+    <p><strong>Client:</strong> Nairobi Metropolitan Sacco Ltd.</p>
+    <p><strong>Challenge:</strong> Inefficient financial reporting and compliance issues.</p>
+    <p><strong>Solution:</strong> Oloo M.A & Associates implemented streamlined accounting processes, conducted a comprehensive audit, and provided training to the finance team.</p>
+    <p><strong>Results:</strong> Enhanced financial transparency, improved compliance with regulatory requirements, and optimized reporting timelines.</p>
+</section>
+
+<section id="blog" class="container">
+    <h2>Blog</h2>
+    <article>
+        <h3>Maximizing Tax Efficiency for SMEs in Kenya</h3>
+        <p>Discover strategies to minimize tax liabilities legally and enhance financial management for small and medium-sized enterprises in Kenya.</p>
+    </article>
+    <article>
+        <h3>Why Risk-Based Auditing is Essential for Modern Businesses</h3>
+        <p>Learn about the benefits of adopting a risk-based audit approach to ensure robust financial health and governance in organizations.</p>
+    </article>
+</section>
+
+<section id="contact" class="container">
+    <h2>Contact Us</h2>
+    <p>Office Line: +254 722 246 576 | 0721 504 600</p>
+    <p>Email: mryoloo@yahoo.com | mmukawe@gmail.com</p>
+    <p>Office Hours: Monday - Friday, 8:00 AM - 5:00 PM</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Oloo M.A & Associates. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
